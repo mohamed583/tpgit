@@ -1,5 +1,5 @@
 def ecrire(chaine):
-	print(chaine)
+	print(chaine.upper())
 ecrire("Hello world!")
 def ecrireXFois(x, chaine):
 	for i in range(x):
