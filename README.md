@@ -1,3 +1,3 @@
 HELLO DEVOPS!!!!!
 
-on doit ignorer tous les fichiers .pyc
+on doit ignorerer tous les fichiers .pyc
